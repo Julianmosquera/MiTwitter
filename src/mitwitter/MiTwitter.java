@@ -27,8 +27,7 @@ public class MiTwitter {
     public static void main(String[] args) throws TwitterException {
         // TODO code application logic here
         
-       // ConfigurationBuilder cb = new ConfigurationBuilder();
-        //La configurationBuilder paso a un fichero. 
+      //camobios
       
         
         Twitter twitter = new TwitterFactory().getInstance();
